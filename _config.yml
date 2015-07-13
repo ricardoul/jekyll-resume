@@ -16,7 +16,7 @@ author:
   website: https://github.com/ricardoul/jekyll-resume
 description: > # this means to ignore newlines until "baseurl:"
   v
-baseurl: "/jekyll-resume/" # the subpath of your site, e.g. /blog/
+baseurl: "/resume/" # the subpath of your site, e.g. /blog/
 url: "http://ricardoul.github.io" # the base hostname & protocol for your site
 
 # Compress html
